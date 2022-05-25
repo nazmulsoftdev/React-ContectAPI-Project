@@ -1,0 +1,20 @@
+.Nav {
+    width: 100%;
+    padding: 15px 0px;
+    background-color: #182c61;
+    overflow: hidden;
+}
+
+.addTo_cardWrapper {
+    width: 50px;
+    margin-right: 100px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.addTo_card {
+    color: aliceblue;
+    cursor: pointer;
+}

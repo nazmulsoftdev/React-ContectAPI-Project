@@ -1,0 +1,15 @@
+.Counter_Wrapper {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Increment_Counter {
+    cursor: pointer;
+    color: green;
+}
+
+.Decrement_Counter {
+    cursor: pointer;
+    color: rgb(219, 49, 49);
+}

@@ -1,0 +1,29 @@
+.Checkout {
+    position: relative;
+}
+
+.RemoveChekout {
+    position: absolute;
+    left: 30px;
+    z-index: 5;
+    top: 10px;
+    color: red;
+    cursor: pointer;
+}
+
+.Checkout_Wrapper {
+    width: 320px;
+    height: 170px;
+    background-color: #ced6e0;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+}
+
+.Checkout_Content {
+    margin-top: 30px;
+}
